@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📫 How to reach me: ... adebisiolayinka30@gmail.com
+- 🌱 I’m currently learning to work with Javascript, Solidity and React
