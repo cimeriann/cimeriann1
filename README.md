@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on imporving my js/solidity skills<br><br>🌱 I’m currently learning Javascript, Solidity, Terraform for IAC, C<br><br>👯 I’m looking to collaborate on Anything related to web3<br><br>💬 Ask me about AWS<br><br>📫 How to reach me adebisiolayinka30@gmail.com<br><br>⚡ Fun fact I'm a huge fan of the Office and I love Sci-Fi
+🔭 I’m currently working on improving my js/solidity skills<br><br>🌱 I’m currently learning Javascript, Solidity, Terraform for IAC, C<br><br>👯 I’m looking to collaborate on Anything related to web3<br><br>💬 Ask me about AWS<br><br>📫 How to reach me adebisiolayinka30@gmail.com<br><br>⚡ Fun fact I'm a huge fan of the Office and I love Sci-Fi
 
 
 ## 🌐 Socials:
